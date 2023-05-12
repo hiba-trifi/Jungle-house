@@ -1,0 +1,53 @@
+.jh-cart {
+	background-color: antiquewhite;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 300px;
+}
+
+.jh-cart-add-button {
+	margin-left: 32px;
+	cursor: pointer;
+}
+
+.jh-cart-open-button {
+	color: white;
+	border-radius: 10px;
+	background-color: #31b472;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+	align-self: self-start;
+	align-self: flex-end;
+}
+.jh-cart-close-button {
+	color: white;
+	border-radius: 10px;
+	background-color: #b43131;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+	align-self: self-start;
+	align-self: flex-end;
+}
+.jh-cart-clear-button{
+	border: none;
+	color: white;
+	border-radius: 10px;
+	background-color: #31b472;
+	padding: 10px;	
+}
+
+.jh-cart-closed {
+	padding: 32px;
+	width: 300px;
+}
+
+.jh-cart-closed > button {
+	color: white;
+	border-radius: 10px;
+	background-color: #31b472;
+	padding: 10px;
+}

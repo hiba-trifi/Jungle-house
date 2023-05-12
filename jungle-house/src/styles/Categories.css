@@ -1,0 +1,24 @@
+.jh-categories {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.jh-categories-select {
+  padding: 8px;
+  border: none;
+  border-bottom: solid 2px #31b472;
+  margin-right: 15px;
+}
+.jh-categories-select:focus {
+	border: none;
+	border-top: solid 2px #31b472;
+
+}
+
+.reset {
+  border: none;
+  color: white;
+  border-radius: 10px;
+  background-color: #31b472;
+  padding: 10px;
+}
